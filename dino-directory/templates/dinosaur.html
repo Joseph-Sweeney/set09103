@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class = "header">
+    <h1>{{ dinosaur.name }}</h1>
+</div>
+<div class="content">
+  <div class="details">
+      <div class="imgwrapper"><img src="../static/img/{{ dinosaur.img }}"/></div>
+      <div class="info">
+          <p>Name of Dinosaur: {{ dinosaur.name }}</p>
+          <p>Type of Dinosaur: <a href="/dinotype/{{dinosaur.dinotype}}">{{ dinosaur.dinotype }}</a></p>
+          <p>When it lived: <a href="/timeperiod/{{dinosaur.timeperiod}}">{{ dinosaur.timeperiod }}</a></p>
+          <p>Where it lived: <a href="/continent/{{dinosaur.continent}}">{{ dinosaur.continent }}</a></p>
+          <p>About the Dinosaur: {{ dinosaur.desc }}</p>
+      </div>
+  </div>
+</div>
+{% endblock content %}

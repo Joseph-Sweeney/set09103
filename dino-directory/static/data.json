@@ -1,0 +1,322 @@
+[
+	{
+	"name": "Allosaurus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Late-Jurassic",
+	"continent": "Europe",
+	"desc": "Allosaurus is a genus of carnivorous theropod dinosaur that lived 155 to 150 million years ago during the late Jurassic period. The name Allosaurus means different lizard alluding to its unique concave vertebrae. It is derived from the Greek ἄλλος/allos and σαῦρος/sauros.",
+	"img": "allosaurus.jpg"
+	},
+	{
+	"name": "Ankylosaurus",
+	"dinotype": "Armoured-dinosaur",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Ankylosaurus is a genus of armored dinosaur. Its fossils have been found in geological formations dating to the very end of the Cretaceous Period, about 68–66 million years ago, in western North-America, making it among the last of the non-avian dinosaurs.",
+	"img": "ankylosaurus.jpg"
+	},
+	{
+	"name": "Apatosaurus",
+	"dinotype": "Sauropod",
+	"timeperiod": "Late-Jurassic",
+	"continent": "North-America",
+	"desc": "Apatosaurus is a genus of herbivorous sauropod dinosaur that lived in North America during the Late Jurassic period. Othniel Charles Marsh described and named the first-known species, A. ajax, in 1877, and a second species, A. louisae, was discovered and named by William H. Holland in 1916.",
+	"img": "apatosaurus.jpg"
+	},
+	{
+	"name": "Archaeornithomimus",
+	"dinotype": "Small-theropod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "Asia",
+	"desc": "Archaeornithomimus is a genus of ornithomimosaurian theropod dinosaur from the Late Cretaceous of China, 70 million years ago. In 1923, during the American Museum of Natural History expedition by Roy Chapman Andrews to Inner Mongolia, Peter Kaisen discovered numerous theropod remains in three quarries.",
+	"img": "archaeornithomimus.jpg"
+	},
+	{
+	"name": "Baryonyx",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Early-Cretaceous",
+	"continent": "Europe",
+	"desc": "Baryonyx is a genus of theropod dinosaur which lived in the Barremian stage of the Early Cretaceous Period, about 130–125 million years ago. The holodinotype specimen was discovered in 1983 in Surrey, England, and the animal was named B. walkeri in 1986.",
+	"img": "baryonyx.jpg"
+	},
+	{
+	"name": "Brachiosaurus",
+	"dinotype": "Sauropod",
+	"timeperiod": "Late-Jurassic",
+	"continent": "North-America",
+	"desc": "Brachiosaurus is a genus of sauropod dinosaur that lived in North America during the Late Jurassic, about 154–153 million years ago. It was first described by American paleontologist Elmer S. Riggs in 1903 from fossils found in the Colorado River valley in western Colorado, United States.",
+	"img": "brachiosaurus.jpg"
+	},
+	{
+	"name": "Canarasaurus",
+	"dinotype": "Sauropod",
+	"timeperiod": "Late-Jurassic",
+	"continent": "North-America",
+	"desc": "Camarasaurus was a genus of quadrupedal, herbivorous dinosaurs. It was the most common of the giant sauropods to be found in North America. Its fossil remains have been found in the Morrison Formation of Colorado and Utah, dating to the Late Jurassic epoch, between 155 and 145 million years ago.",
+	"img": "canarasaurus.jpg"
+	},
+	{
+	"name": "Carnotaurus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "South-America",
+	"desc": "Carnotaurus is a genus of large theropod dinosaur that lived in South America during the Late Cretaceous period, from about 72 to 69.9 million years ago. The only known species is Carnotaurus sastrei.",
+	"img": "carnotaurus.jpg"
+	},
+	{
+	"name": "Ceratosaurus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Late-Jurassic",
+	"continent": "North-America",
+	"desc": "Ceratosaurus was a predatory theropod dinosaur in the Late Jurassic Period. This genus was first described in 1884 by American paleontologist Othniel Charles Marsh based on a nearly complete skeleton discovered in Garden Park, Colorado, in rocks belonging to the Morrison Formation.",
+	"img": "ceratosaurus.jpg"
+	},
+	{
+	"name": "Chasmosaurus",
+	"dinotype": "Ceratopsian",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Chasmosaurus is a genus of ctimeperiodtopsid dinosaur from the Upper Cretaceous Period of North America. Its name means 'opening lizard', referring to the large openings in its frill. With a length of 4.3–4.8 metres and a weight of 1.5–2 tonnes, Chasmosaurus was a ceratopsian of avtimeperiodge size.",
+	"img": "chasmosaurus.jpg"
+	},
+	{
+	"name": "Chungkingosaurus",
+	"dinotype": "Armoured-dinosaur",
+	"timeperiod": "Late-Jurassic",
+	"continent": "Asia",
+	"desc": "Chungkingosaurus, meaning Chongqing Lizard, is a genus of herbivorous dinosaur from the Late Jurassic Upper Shaximiao Formation in what is now China. It is a member of the Stegosauria.",
+	"img": "chungkingosaurus.jpg"
+	},
+	{
+	"name": "Corythosaurus",
+	"dinotype": "Euornithopod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Corythosaurus is a genus of hadrosaurid duck-billed dinosaur from the Upper Cretaceous Period, about 77–75.7 million years ago. It lived in what is now North America. Its name means helmet lizard, derived from Greek κόρυς. It was named and described in 1914 by Barnum Brown.",
+	"img": "corythosaurus.jpg"
+	},
+	{
+	"name": "Deinonychus",
+	"dinotype": "Small-theropod",
+	"timeperiod": "Early-Cretaceous",
+	"continent": "North-America",
+	"desc": "Deinonychus is a genus of carnivorous dromaeosaurid coelurosaurian theropod dinosaur with one described species, Deinonychus antirrhopus. This species, which could grow up to 3.4 metres long, lived during the early Cretaceous Period, about 115–108 million years ago.",
+	"img": "deinonychus.jpg"
+	},
+	{
+	"name": "Dilophosaurus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Early Jurassic",
+	"continent": "North-America",
+	"desc": "Dilophosaurus is a genus of theropod dinosaur that lived in what is now North America during the Early Jurassic, about 193 million years ago. Three skeletons were discovered in northern Arizona in 1940, and the two best preserved were collected in 1942.",
+	"img": "dilophosaurus.jpg"
+	},
+	{
+	"name": "Diplodocus",
+	"dinotype": "Sauropod",
+	"timeperiod": "Late-Jurassic",
+	"continent": "North-America",
+	"desc": "Diplodocus is a genus of diplodocid sauropod dinosaurs whose fossils were first discovered in 1877 by S. W. Williston.",
+	"img": "diplodocus.jpg"
+	},
+	{
+	"name": "Edmontosaurus",
+	"dinotype": "Euornithopod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Edmontosaurus is a genus of hadrosaurid dinosaur. It contains two known species: Edmontosaurus regalis and Edmontosaurus annectens.",
+	"img": "edmontosaurus.jpg"
+	},
+	{
+	"name": "Gallimimus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "Asia",
+	"desc": "Gallimimus is a genus of theropod dinosaur that lived in what is now Mongolia during the Late Cretaceous period, about 70 million years ago. Gallimimus is the largest known ornithomimid; adults were about 6 metres long, 1.9 metres tall at the hip and weighed about 440 kilograms.",
+	"img": "gallimimus.jpg"
+	},
+	{
+	"name": "Giganotosaurus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Early-Cretaceous",
+	"continent": "South-America",
+	"desc": "Giganotosaurus is a genus of theropod dinosaur that lived in what is now Argentina, during the early Cenomanian age of the Late Cretaceous period, approximately 98 to 97 million years ago. The holodinotype specimen was discovered in the Candeleros Formation of Patagonia in 1993, and is almost 70% complete.",
+	"img": "giganotosaurus.jpg"
+	},
+	{
+	"name": "Huayangosaurus",
+	"dinotype": "Armoured-dinosaur",
+	"timeperiod": "Mid Jurassic",
+	"continent": "Asia",
+	"desc": "Huayangosaurus is a genus of stegosaurian dinosaur from the Middle Jurassic of China. The name derives from Huayang, an alternate name for Sichuan, and saurus, meaning lizard.",
+	"img": "huayangosaurus.jpg"
+	},
+	{
+	"name": "Kentrosaurus",
+	"dinotype": "Armoured-dinosaur",
+	"timeperiod": "Late-Jurassic",
+	"continent": "Africa",
+	"desc": "Kentrosaurus is a genus of stegosaurian dinosaur from the Late Jurassic of Tanzania. The dinotype species is K. aethiopicus, named and described by German palaeontologist Edwin Hennig in 1915.",
+	"img": "kentrosaurus.jpg"
+	},
+	{
+	"name": "Maiasaura",
+	"dinotype": "Euornithopod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Maiasaura is a large herbivorous hadrosaurid dinosaur genus that lived in the area currently covered by the state of Montana in the Upper Cretaceous Period, about 76.7 million years ago. The first fossils of Maiasaura were discovered in 1978. The genus was named in 1979.",
+	"img": "maiasaura.jpg"
+	},
+	{
+	"name": "Majungasaurus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "Africa",
+	"desc": "Majungasaurus is a genus of abelisaurid theropod dinosaur that lived in Madagascar from 70 to 66 million years ago, at the end of the Cretaceous Period. The genus contains a single species, Majungasaurus crenatissimus.",
+	"img": "majungasaurus.jpg"
+	},
+	{
+	"name": "Metriacanthosaurus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Late-Jurassic",
+	"continent": "Europe",
+	"desc": "Metriacanthosaurus is a genus of metriacanthosaurid dinosaur from the upper Oxford Clay of England, dating to the mid-Jurassic Period, about 160 million years ago.",
+	"img": "metriacanthosaurus.jpg"
+	},
+	{
+	"name": "Muttaburrasaurus",
+	"dinotype": "Euornithopod",
+	"timeperiod": "Early-Cretaceous",
+	"continent": "Australia",
+	"desc": "Muttaburrasaurus was a genus of herbivorous ornithopod dinosaur, which lived in what is now northeastern Australia sometime between 112 and 99.6 million years ago during the early Cretaceous Period. It has been recovered in some analyses as a member of the iguanodontian family Rhabdodontidae.",
+	"img": "muttaburrasaurus.jpg"
+	},
+	{
+	"name": "Nodosaurus",
+	"dinotype": "Armoured-dinosaur",
+	"timeperiod": "Early-Cretaceous",
+	"continent": "North-America",
+	"desc": "Nodosaurus is a genus of herbivorous ankylosaurian dinosaur from the Late Cretaceous, the fossils of which are found in North America.",
+	"img": "nodosaurus.jpg"
+	},
+	{
+	"name": "Pachycephalosaurus",
+	"dinotype": "Euornithopod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Pachycephalosaurus is a genus of pachycephalosaurid dinosaurs. The dinotype species, P. wyomingensis, is the only known species. It lived during the Late Cretaceous Period of what is now North America. Remains have been excavated in Montana, South Dakota, and Wyoming.",
+	"img": "pachycephalosaurus.jpg"
+	},
+	{
+	"name": "Parasaurolophus",
+	"dinotype": "Euornithopod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Parasaurolophus is a genus of herbivorous ornithopod dinosaur that lived in what is now North America and possibly Asia during the Late Cretaceous Period, about 76.5–73 million years ago. It was a herbivore that walked both as a biped and as a quadruped.",
+	"img": "parasaurolophus.jpg"
+	},
+	{
+	"name": "Pentaceratops",
+	"dinotype": "Ceratopsian",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Pentaceratops is a genus of herbivorous ctimeperiodtopsid dinosaur from the late Cretaceous Period of what is now North America. Pentaceratops fossils were first discovered in 1921. The genus was named in 1923 when its dinotype species Pentaceratops sternbergii was described.",
+	"img": "pentaceratops.jpg"
+	},
+	{
+	"name": "Polacanthus",
+	"dinotype": "Armoured-dinosaur",
+	"timeperiod": "Early-Cretaceous",
+	"continent": "Europe",
+	"desc": "Polacanthus, deriving its name from the Ancient Greek polys-/πολύς- many and akantha/ἄκανθα thorn or prickle, is an early armoured, spiked, plant-eating ankylosaurian dinosaur from the early Cretaceous period of England.",
+	"img": "polacanthus.jpg"
+	},
+	{
+	"name": "Sauropelta",
+	"dinotype": "Armoured-dinosaur",
+	"timeperiod": "Early-Cretaceous",
+	"continent": "North-America",
+	"desc": "Sauropelta is a genus of nodosaurid dinosaur that existed in the Early Cretaceous Period of North America. One species has been named although others may have existed.",
+	"img": "sauropelta.jpg"
+	},
+	{
+	"name": "Spinosaurus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "Africa",
+	"desc": "Spinosaurus is a genus of theropod dinosaur that lived in what now is North Africa, during the upper Albian to upper Turonian stages of the Cretaceous period, about 112 to 93.5 million years ago.",
+	"img": "spinosaurus.jpg"
+	},
+	{
+	"name": "Stegosaurus",
+	"dinotype": "Armoured-dinosaur",
+	"timeperiod": "Late-Jurassic",
+	"continent": "North-America",
+	"desc": "Stegosaurus, from Greek stegos which means roof and sauros which means lizard, is a genus of herbivorous thyreophoran dinosaur.",
+	"img": "stegosaurus.jpg"
+	},
+	{
+	"name": "Struthiomimus",
+	"dinotype": "Small-theropod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Struthiomimus is a genus of ornithomimid dinosaurs from the late Cretaceous of North America. Ornithomimids were long-legged, bipedal, ostrich-like dinosaurs with toothless beaks.",
+	"img": "struthiomimus.jpg"
+	},
+	{
+	"name": "Styracosaurus",
+	"dinotype": "Ceratopsian",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Styracosaurus is a genus of herbivorous ceratopsian dinosaur from the Cretaceous Period, about 75.5 to 75 million years ago.",
+	"img": "styracosaurus.jpg"
+	},
+	{
+	"name": "Suchomimus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Early-Cretaceous",
+	"continent": "Africa",
+	"desc": "Suchomimus is a genus of large theropod dinosaur with a crocodile-like skull that lived between 125–112 million years ago, during the Aptian to early Albian stage of the Cretaceous period in Niger, Africa. It belongs in the Spinosauridae family and the only species named in the genus is Suchomimus tenerensis.",
+	"img": "suchomimus.jpg"
+	},
+	{
+	"name": "Torosaurus",
+	"dinotype": "Ceratopsian",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Torosaurus is a genus of herbivorous ctimeperiodtopsid dinosaur that lived during the late Maastrichtian stage of the Cretaceous period, between 68 and 66 million years ago, though it is possible that the species range might extend to as far as 69 million years ago.",
+	"img": "torosaurus.jpg"
+	},
+	{
+	"name": "Triceratops",
+	"dinotype": "Ceratopsian",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Triceratops is a genus of herbivorous ctimeperiodtopsid dinosaur that first appeared during the late Maastrichtian stage of the late Cretaceous period, about 68 million years ago in what is now North America.",
+	"img": "triceratops.jpg"
+	},
+	{
+	"name": "Tsintaosaurus",
+	"dinotype": "Euornithopod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "Asia",
+	"desc": "Tsintaosaurus is a genus of hadrosaurid dinosaur from China. It was about 8.3 metres long and weighed 2.5 tonnes. The dinotype species is Tsintaosaurus spinorhinus, first described by Chinese paleontologist C. C. Young in 1958.",
+	"img": "tsintaosaurus.jpg"
+	},
+	{
+	"name": "Tyrannosaurus",
+	"dinotype": "Large-theropod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "North-America",
+	"desc": "Tyrannosaurus is a genus of coelurosaurian theropod dinosaur. The species Tyrannosaurus rex, often colloquially called simply T. rex or T-Rex, is one of the most well-represented of the large theropods.",
+	"img": "tyrannosaurus.jpg"
+	},
+	{
+	"name": "Velociraptor",
+	"dinotype": "Small-theropod",
+	"timeperiod": "Late-Cretaceous",
+	"continent": "Asia",
+	"desc": "Velociraptor is a genus of dromaeosaurid theropod dinosaur that lived approximately 75 to 71 million years ago during the latter part of the Cretaceous Period. Two species are currently recognized, although others have been assigned in the past.",
+	"img": "velociraptor.jpg"
+	}
+]

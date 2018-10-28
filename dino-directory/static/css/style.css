@@ -1,0 +1,17 @@
+/* Service Section */
+
+.dinosaursContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 8rem;
+  width: 5rem;
+  margin: 3rem;
+  text-align: center;
+}
+
+.dinosaursContainer img {
+  width: 5rem;
+  margin-bottom: 1rem;
+}
